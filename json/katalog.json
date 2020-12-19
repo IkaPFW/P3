@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "barang": "Busi Mobil Iridium DENSO",
         "kategori": "Busi",
         "merk": "DENSO",
@@ -7,6 +8,7 @@
         "garansi": 5
     },
     {
+        "id": 2,
         "barang": "Sparex Universal Joint",
         "kategori": "Joint",
         "merk": "Sparex",
@@ -14,6 +16,7 @@
         "garansi": 3
     },
     {
+        "id": 3,
         "barang": "JTC Bearing Separator",
         "kategori": "Bearing",
         "merk": "JTC",
@@ -21,6 +24,7 @@
         "garansi": 3
     },
     {
+        "id": 4,
         "barang": "DNY Klakson Keong",
         "kategori": "Klakson",
         "merk": "DNY",
@@ -28,6 +32,7 @@
         "garansi": 7
     },
     {
+        "id": 5,
         "barang": "ISUZU Packing Thermostat",
         "kategori": "Thermostat",
         "merk": "ISUZU",
@@ -35,6 +40,7 @@
         "garansi": 1
     },
     {
+        "id": 6,
         "barang": "TORA O-Ring Kit",
         "kategori": "O-Ring",
         "merk": "TORA",
@@ -42,6 +48,7 @@
         "garansi": 5
     },
     {
+        "id": 7,
         "barang": "DNY Lampu LED Aksesoris",
         "kategori": "Lampu LED",
         "merk": "DNY",
@@ -49,6 +56,7 @@
         "garansi": 5.5
     },
     {
+        "id": 8,
         "barang": "JTC O-Ring Kit",
         "kategori": "O-Ring",
         "merk": "JTC",
