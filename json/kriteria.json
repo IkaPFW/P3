@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "kode": "C1",
+        "kriteria": "kategori",
+        "atribut": "benefit",
+        "bobot": 3
+    },
+    {
+        "id": 2,
+        "kode": "C2",
+        "kriteria": "merk",
+        "atribut": "benefit",
+        "bobot": 3
+    },
+    {
+        "id": 3,
+        "kode": "C3",
+        "kriteria": "harga",
+        "atribut": "cost",
+        "bobot": 5
+    },
+    {
+        "id": 4,
+        "kode": "C4",
+        "kriteria": "garansi",
+        "atribut": "benefit",
+        "bobot": 5
+    }
+]

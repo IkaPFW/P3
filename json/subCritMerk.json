@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "kode": "SC21",
+        "subkriteria": "sesuai",
+        "nilai": 1
+    },
+    {
+        "id": 2,
+        "kode": "SC22",
+        "subkriteria": "tidak sesuai",
+        "nilai": 0
+    }
+]

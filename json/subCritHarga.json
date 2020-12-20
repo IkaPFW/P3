@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "kode": "SC31",
+        "subkriteria": "Lebih dari Rp 200.000",
+        "nilai": 1
+    },
+    {
+        "id": 2,
+        "kode": "SC32",
+        "subkriteria": "Antara Rp 100.000 dan Rp 200.000",
+        "nilai": 2
+    },
+    {
+        "id": 3,
+        "kode": "SC33",
+        "subkriteria": "Antara Rp 50.000 dan Rp 100.000",
+        "nilai": 3
+    },
+    {
+        "id": 4,
+        "kode": "SC34",
+        "subkriteria": "Antara Rp 25.000 dan Rp 50.000",
+        "nilai": 4
+    },
+    {
+        "id": 5,
+        "kode": "SC35",
+        "subkriteria": "Kurang dari 25.000",
+        "nilai": 5
+    }
+]

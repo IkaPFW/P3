@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "kode": "SC41",
+        "subkriteria": "Kurang dari atau dalam 2 tahun",
+        "nilai": 1
+    },
+    {
+        "id": 2,
+        "kode": "SC42",
+        "subkriteria": "3 tahun",
+        "nilai": 2
+    },
+    {
+        "id": 3,
+        "kode": "SC43",
+        "subkriteria": "4 tahun",
+        "nilai": 3
+    },
+    {
+        "id": 4,
+        "kode": "SC44",
+        "subkriteria": "5 tahun",
+        "nilai": 4
+    },
+    {
+        "id": 5,
+        "kode": "SC45",
+        "subkriteria": "Lebih dari 5 tahun",
+        "nilai": 5
+    }
+]
